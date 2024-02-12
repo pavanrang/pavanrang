@@ -21,10 +21,10 @@ __Check out my GitHub repository:__
 <div>
   <p>
     <a href="https://github.com/Rangasatyaviswapavan/Resume-ATS-Tracking-LLM-Project-">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rangasatyaviswapavan&repo=Resume-ATS-Tracking-LLM-Project-" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rangasatyaviswapavan&repo=Resume-ATS-Tracking-LLM-Project-" alt="GitHub" />
     </a>
     <a href="https://github.com/Rangasatyaviswapavan/Content-Based-Song-Recommendation-System">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rangasatyaviswapavan&repo=Content-Based-Song-Recommendation-System" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rangasatyaviswapavan&repo=Content-Based-Song-Recommendation-System" alt="GitHub" />
     </a>
   </p>
 </div>
