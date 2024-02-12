@@ -4,7 +4,7 @@
 
 <h2>Hey! 👋</h2>
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=laxmena.laxmena)](https://github.com/laxmena) [![GitHub followers](https://img.shields.io/github/followers/laxmena.svg?style=social&label=Follow)](https://github.com/laxmena?tab=followers)
+[![Visitor](<img src="https://komarev.com/ghpvc/?username=rangasatyaviswapavan&label=Profile%20views&color=0e75b6&style=flat" alt="rangasatyaviswapavan" /> ) 
 
 I'm Satya viswa pavan Ranga! 
 - <i>Currently:</i> MS Analytics Student at Northeastern University, Chicago. 
