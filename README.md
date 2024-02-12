@@ -1,18 +1,42 @@
-<h1 align="center">Hi 👋, I'm Satya Viswa Pavan Ranga</h1>
-<h3 align="center">A Data Analytics student with specialization in Applied Machine Learning</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rangasatyaviswapavan&label=Profile%20views&color=0e75b6&style=flat" alt="rangasatyaviswapavan" /> </p>
+![Satya Banner Image](./banner.png)
+<!-- <h2 align='center'>Satya viswa pavan</h2>
+<p align='center'><b>Graduate Student at Northeastern University, Boston</b></p> -->
 
-- 👨‍💻 Here's my website [https://rangasatyaviswapavan.github.io/](https://rangasatyaviswapavan.github.io/)
+<h2>Hey! 👋</h2>
 
-- 📫 How to reach me **pavan.sv.ranga@gmail.com**
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=laxmena.laxmena)](https://github.com/laxmena) [![GitHub followers](https://img.shields.io/github/followers/laxmena.svg?style=social&label=Follow)](https://github.com/laxmena?tab=followers)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1e4H1qAEf8y8x54IKcflKyJj1igwuKI5O/view?usp=drive_link](https://drive.google.com/file/d/1e4H1qAEf8y8x54IKcflKyJj1igwuKI5O/view?usp=drive_link)
+I'm Satya viswa pavan Ranga! 
+- <i>Currently:</i> MS Analytics Student at Northeastern University, Chicago. 
+- <i>Previously:</i> Program Analyst at COgnizant.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sv-pavan-ranga/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sv-pavan-ranga/" height="30" width="40" /></a>
-</p>
+<h2>💻 I'm Currently workng on</h2>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+- System Design and Distributed Computing
+- Software Engineering
+
+
+__Check out my GitHub repository:__
+
+<div>
+  <p>
+    <a href="https://github.com/laxmena/PyCalendly">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=laxmena&repo=PyCalendly" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/laxmena/CloudOrg-Simulator">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=laxmena&repo=CloudOrg-Simulator" alt="GitHub Stats" />
+    </a>
+  </p>
+</div>
+
+<h2> About Satya⚡:</h2>
+
+I'm a Graduate Student living in Boston, MA. Outside Tech, I love to read, enjoy music and explore nature outdoors. If you are around Boston, drop an email and let's catch-up over Coffee!
+ 
+- Check out my Page: [https://rangasatyaviswapavan.github.io/](https://rangasatyaviswapavan.github.io/)
+- Know more about me: [About Satya](https://rangasatyaviswapavan.github.io/#about)
+- Write to me: [pavan.sv.ranga@gmail.com](mailto:pavan.sv.ranga@gmail.com)
+
+<h2>📫 How to reach me:</h2>
+
+<a href="mailto:pavan.sv.ranga@gmail.com">![pavan.sv.ranga@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/sv-pavan-ranga/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
