@@ -8,12 +8,12 @@
 
 I'm Satya viswa pavan Ranga! 
 - <i>Currently:</i> MS Analytics Student at Northeastern University, Chicago. 
-- <i>Previously:</i> Program Analyst at COgnizant.
+- <i>Previously:</i> Program Analyst at Cognizant.
 
 <h2>💻 I'm Currently workng on</h2>
 
-- System Design and Distributed Computing
-- Software Engineering
+- Data communication and visualization
+- Applications of Artifical intelligence
 
 
 __Check out my GitHub repository:__
