@@ -7,7 +7,7 @@
 <img src="https://komarev.com/ghpvc/?username=rangasatyaviswapavan&label=Profile%20views&color=0e75b6&style=flat" alt="rangasatyaviswapavan" />  
 
 I'm Satya viswa pavan Ranga! 
-- <i>Currently:</i> MS Analytics Student at Northeastern University, Chicago. 
+- <i>Currently:</i> MS Analytics Student at Northeastern University, Boston. 
 - <i>Previously:</i> Program Analyst at Cognizant.
 
 <h2>💻 I'm Currently workng on</h2>
