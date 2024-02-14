@@ -27,6 +27,14 @@ __Check out my GitHub repository:__
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rangasatyaviswapavan&repo=Content-Based-Song-Recommendation-System" alt="GitHub" />
     </a>
   </p>
+  <p>
+    <a href="https://github.com/Rangasatyaviswapavan/Langchain-based-Retrieval-Augmented-Generation">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rangasatyaviswapavan&repo=Langchain-based-Retrieval-Augmented-Generation" alt="GitHub" />
+    </a>
+    <a href="https://github.com/Rangasatyaviswapavan/Powerbi_reports">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rangasatyaviswapavan&repo=Powerbi_reports" alt="GitHub" />
+    </a>
+  </p>
 </div>
 
 <h2> About Satya⚡:</h2>
