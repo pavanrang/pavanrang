@@ -31,8 +31,8 @@ __Check out my GitHub repository:__
     <a href="https://github.com/Rangasatyaviswapavan/Langchain-based-Retrieval-Augmented-Generation">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rangasatyaviswapavan&repo=Langchain-based-Retrieval-Augmented-Generation" alt="GitHub" />
     </a>
-    <a href="https://github.com/Rangasatyaviswapavan/Powerbi_reports">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rangasatyaviswapavan&repo=Powerbi_reports" alt="GitHub" />
+    <a href="https://github.com/Rangasatyaviswapavan/groq-crew-hiring-emails">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rangasatyaviswapavan&repo=groq-crew-hiring-emails" alt="GitHub" />
     </a>
   </p>
 </div>
