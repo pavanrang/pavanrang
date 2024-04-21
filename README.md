@@ -1,4 +1,4 @@
-![Satya Banner Image](./banner.png)
+![Satya Banner Image](./banner.jpg)
 <!-- <h2 align='center'>Satya viswa pavan</h2>
 <p align='center'><b>Graduate Student at Northeastern University, Boston</b></p> -->
 
