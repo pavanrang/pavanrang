@@ -20,18 +20,18 @@ __Check out my GitHub repository:__
 
 <div>
   <p>
-    <a href="https://github.com/Rangasatyaviswapavan/Resume-ATS-Tracking-LLM-Project-">
+    <a href="https://github.com/pavanrang/Resume-ATS-Tracking-LLM-Project-">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rangasatyaviswapavan&repo=Resume-ATS-Tracking-LLM-Project-" alt="GitHub" />
     </a>
-    <a href="https://github.com/Rangasatyaviswapavan/Content-Based-Song-Recommendation-System">
+    <a href="https://github.com/pavanrang/Content-Based-Song-Recommendation-System">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rangasatyaviswapavan&repo=Content-Based-Song-Recommendation-System" alt="GitHub" />
     </a>
   </p>
   <p>
-    <a href="https://github.com/Rangasatyaviswapavan/Langchain-based-Retrieval-Augmented-Generation">
+    <a href="https://github.com/pavanrang/Langchain-based-Retrieval-Augmented-Generation">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rangasatyaviswapavan&repo=Langchain-based-Retrieval-Augmented-Generation" alt="GitHub" />
     </a>
-    <a href="https://github.com/Rangasatyaviswapavan/groq-crew-hiring-emails">
+    <a href="https://github.com/pavanrang/groq-crew-hiring-emails">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rangasatyaviswapavan&repo=groq-crew-hiring-emails" alt="GitHub" />
     </a>
   </p>
