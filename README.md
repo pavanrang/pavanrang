@@ -41,7 +41,7 @@ __Check out my GitHub repository:__
 
 I'm a Graduate Student living in Boston, MA. Outside Tech, I love to read, enjoy music and explore nature outdoors. If you are around Boston, drop an email and let's catch-up over Coffee!
  
-- Check out my Page: [https://pavan.github.io/](https://pavan.github.io/)
+- Check out my Page: [https://pavan.github.io/](https://pavanrang.github.io/pavan.github.io/)
 - Know more about me: [About Pavan](https://pavan.github.io/#about)
 - Write to me: [pavan.sv.ranga@gmail.com](mailto:pavan.sv.ranga@gmail.com)
 
