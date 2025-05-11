@@ -7,8 +7,6 @@
 <img src="https://komarev.com/ghpvc/?username=rangasatyaviswapavan&label=Profile%20views&color=0e75b6&style=flat" alt="rangasatyaviswapavan" />  
 
 I'm Pavan Ranga! 
-- <i>Currently:</i> MS Analytics Student at Northeastern University, Boston. 
-- <i>Previously:</i> Program Analyst at Cognizant.
 
 <h2>💻 I'm Currently workng on</h2>
 
@@ -37,14 +35,3 @@ __Check out my GitHub repository:__
   </p>
 </div>
 
-<h2> About Satya⚡:</h2>
-
-I'm a Graduate Student living in Boston, MA. Outside Tech, I love to read, enjoy music and explore nature outdoors. If you are around Boston, drop an email and let's catch-up over Coffee!
- 
-- Check out my Page: [https://pavan.github.io/](https://pavanrang.github.io/pavan.github.io/)
-- Know more about me: [About Pavan](https://pavan.github.io/#about)
-- Write to me: [pavan.sv.ranga@gmail.com](mailto:pavan.sv.ranga@gmail.com)
-
-<h2>📫 How to reach me:</h2>
-
-<a href="mailto:pavan.sv.ranga@gmail.com">![pavan.sv.ranga@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/sv-pavan-ranga/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
